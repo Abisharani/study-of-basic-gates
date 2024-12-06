@@ -91,8 +91,8 @@ endmodule
 ![image](https://github.com/user-attachments/assets/c743df8c-42f5-4234-8588-244101a28b0a)
 
 **RTL**
-![Screenshot (16)](https://github.com/user-attachments/assets/d91dbf45-a80a-469d-b87d-d88696289cc4)
+![312525416-523d3d1f-416e-46fc-b087-8e2e92053a69](https://github.com/user-attachments/assets/7272d12c-190d-48fb-860d-9c178d388b46)
 
-**Result:**
+RESULT:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
